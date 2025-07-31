@@ -10,14 +10,16 @@
 
 🧠 **Main Tech & Core Competencies:**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Data Science](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge&logo=jupyter&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)      ![Data Science](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge&logo=jupyter&logoColor=white) 
 
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-orange?style=for-the-badge&logo=tensorflow&logoColor=white)![ML](https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-![LLMs](https://img.shields.io/badge/LLMs-purple?style=for-the-badge&logo=huggingface&logoColor=white) ![Data Warehouse](https://img.shields.io/badge/Data%20Warehousing-teal?style=for-the-badge&logo=snowflake&logoColor=white) 
+![LLMs](https://img.shields.io/badge/LLMs-purple?style=for-the-badge&logo=huggingface&logoColor=white)      ![Data Warehouse](https://img.shields.io/badge/Data%20Warehousing-teal?style=for-the-badge&logo=snowflake&logoColor=white) 
 
-![ETL](https://img.shields.io/badge/ETL-darkblue?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Data Connectors](https://img.shields.io/badge/Data%20Connectors-green?style=for-the-badge&logo=apachekafka&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-darkblue?style=for-the-badge&logo=apacheairflow&logoColor=white)      ![Data Connectors](https://img.shields.io/badge/Data%20Connectors-green?style=for-the-badge&logo=apachekafka&logoColor=white)
 
+
+![ML](https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 & **Passionate about the entire data lifecycle, from raw ingestion to actionable intelligence.**
 
