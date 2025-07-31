@@ -23,17 +23,11 @@
 
 & **Passionate about the entire data lifecycle, from raw ingestion to actionable intelligence.**
 
-
-
-📊 **My GitHub Stats:**
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ---
 
  "The goal is to turn data into information, and information into insight." - Carly Fiorina
+
+ "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle." - Steve Jobs
 
 🚀 Driven by curiosity and a commitment to transforming complex datasets into clear, impactful solutions.
 
