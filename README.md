@@ -1,6 +1,7 @@
 ### 👋 Hello there!
 
-⚡ **Data is my passion, understanding its nuances and getting to know how things work is my hunger towards progress.** I am a keen data observant, always seeking insights from the digital world.
+⚡ **Data is my passion, understanding its nuances and getting to know how things work is my hunger towards progress.
+** I am a keen data observant, always seeking insights from the digital world.
 
 🌍 **Socials:**
 
@@ -29,6 +30,6 @@
 
  "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle." - Steve Jobs
 
-🚀 Driven by curiosity and a commitment to transforming complex datasets into clear, impactful solutions.
+            🦧 Driven by curiosity and a commitment to transforming complex datasets into clear, impactful solutions.
 
 ---
