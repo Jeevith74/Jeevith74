@@ -6,6 +6,15 @@
 
 ---
 
+### 🧑‍🎓 About Me
+
+🎓 Graduate of 2025  
+🤝 Open to collaborate and available for offers in the data science field  
+🗣️ Extrovert, open for communication and networking  
+⚽🏏🎮 I enjoy playing football, cricket, and E-games
+
+---
+
 🌍 **Socials:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsjeevs0000)
