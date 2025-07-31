@@ -1,7 +1,8 @@
 ### 👋 Hello there!
 
-⚡ **Data is my passion, understanding its nuances and getting to know how things work is my hunger towards progress.
-** I am a keen data observant, always seeking insights from the digital world.
+⚡ Data is my passion, understanding its nuances and getting to know how things work is my hunger towards progress.
+ 
+   I am a keen data observant, always seeking insights from the digital world.
 
 🌍 **Socials:**
 
